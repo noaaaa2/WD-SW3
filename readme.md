@@ -60,14 +60,14 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-The project is about creating a header and footer display website using HTML and CSS.
+- What is the project?
+<br> The project is about creating a header and footer display website using HTML and CSS.
 - Whats the purpose
-In website design, headers and footers fulfill several functions: they guarantee design consistency, offer contact and legal information, accessibility features, branding, and navigation. The user experience, aesthetics, and usability are all improved when they are made with HTML and CSS.
+<br> In website design, headers and footers fulfill several functions: they guarantee design consistency, offer contact and legal information, accessibility features, branding, and navigation. The user experience, aesthetics, and usability are all improved when they are made with HTML and CSS.
 - What are key components
-Branding components including logos, search bars, navigation menus, contact details, and social networking connections are essential parts of website headers. Contact information, copyright information, legal connections, extra navigation, and accessibility features are often found in footers. These elements improve the website's overall consistency, branding, and usability.
+<br> Branding components including logos, search bars, navigation menus, contact details, and social networking connections are essential parts of website headers. Contact information, copyright information, legal connections, extra navigation, and accessibility features are often found in footers. These elements improve the website's overall consistency, branding, and usability.
 - What technology used and how it is used
-Website headers and footers are constructed with CSS for styling and HTML for structure. These parts are defined by HTML tags such as <header> and <footer>, and their look, layout, and responsiveness are controlled by CSS. This approach ensures consistent branding, navigation, and information presentation throughout webpages.
+<br> Website headers and footers are constructed with CSS for styling and HTML for structure. These parts are defined by HTML tags such as <header> and <footer>, and their look, layout, and responsiveness are controlled by CSS. This approach ensures consistent branding, navigation, and information presentation throughout webpages.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
