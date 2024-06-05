@@ -9,18 +9,18 @@
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Seatwork 3</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This is my seatwork 3
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=noaaaa2/WD-SW3)
 
 ---
 
@@ -61,9 +61,13 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+The project is about creating a header and footer display website using HTML and CSS.
 - Whats the purpose
+In website design, headers and footers fulfill several functions: they guarantee design consistency, offer contact and legal information, accessibility features, branding, and navigation. The user experience, aesthetics, and usability are all improved when they are made with HTML and CSS.
 - What are key components
+Branding components including logos, search bars, navigation menus, contact details, and social networking connections are essential parts of website headers. Contact information, copyright information, legal connections, extra navigation, and accessibility features are often found in footers. These elements improve the website's overall consistency, branding, and usability.
 - What technology used and how it is used
+Website headers and footers are constructed with CSS for styling and HTML for structure. These parts are defined by HTML tags such as <header> and <footer>, and their look, layout, and responsiveness are controlled by CSS. This approach ensures consistent branding, navigation, and information presentation throughout webpages.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
