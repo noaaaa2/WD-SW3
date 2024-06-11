@@ -5,6 +5,7 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+
 header.design-one {
     display: flex;
     justify-content: space-between;
@@ -13,6 +14,7 @@ header.design-one {
 
 a{
     text-decoration: none;
+    color: black;
 }
 
 section {
@@ -23,6 +25,10 @@ section {
     text-align: flex-end;
 }
 
+section h3 {
+    margin-left: 65px;
+}
+
 body {
     display: flex;
     flex-direction: column;
@@ -31,27 +37,45 @@ body {
     background: white;
 }
 
-.header-title h1 {
-    font-size:3rem;
-    padding: 2rem;
+.twice-logo {
+    height: 50px;
+    position: relative;
+    right: 50px;
 }
 
 .navigation {
+    width: 37%;
     display: flex;
     align-items: center;
-    gap: 1.8rem;
+    gap: 2rem;
+    margin: auto;
+}
+
+.navigation .search {
+    display: flex;
+    position: relative;
+    left: 20rem;
+}
+
+.navigation .profile {
+    display: flex;
+    position: relative;
+    left: 20rem;
 }
 
 .design-one {
     width: 100vw;
     display: flex;
     justify-content: space-between;
-    padding: .7rem 5vw;
+    padding: .3rem 5vw;
     background: thistle;
 }
 
-.twice-logo {
-        height: 60px;
+.header-title h1 {
+    font-size:4rem;
+    padding: 2rem;
 }
+
+
 
 
