@@ -5,6 +5,7 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+/* Design 1 */
 
 header.design-one {
     display: flex;
@@ -23,10 +24,6 @@ section {
     padding: 1rem 5vw;
     gap: 1rem;
     text-align: flex-end;
-}
-
-section h3 {
-    margin-left: 65px;
 }
 
 body {
@@ -72,9 +69,266 @@ body {
 }
 
 .header-title h1 {
-    font-size:4rem;
-    padding: 2rem;
+    font-size:2rem;
+    padding: .5rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
 }
+
+section h3 {
+    margin-left: 65px;
+}
+
+/* Design 1 with animation */
+
+header.design-one-animation {
+    display: flex;
+    justify-content: space-between;
+    width: 100rem;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+section {
+    width: 100vw;
+    display: flex;
+    padding: 1rem 5vw;
+    gap: 1rem;
+    text-align: flex-end;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+    background: white;
+}
+
+.twice-logo-animation {
+    height: 50px;
+    position: relative;
+    right: 50px;
+    transition: all .2s ease-in-out;
+    &:hover{
+        transform: scale(1.1);
+    }
+}
+
+.navigation {
+    width: 37%;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin: auto;
+}
+
+.navigation .search {
+    display: flex;
+    position: relative;
+    left: 20rem;
+}
+
+.navigation .profile {
+    display: flex;
+    position: relative;
+    left: 20rem;
+}
+
+.design-one-animation {
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    padding: .3rem 5vw;
+    background: thistle;
+}
+
+/* Design 2 */
+
+header.design-two {
+    display: flex;
+    justify-content: space-between;
+    width: 100rem;
+}
+
+.navigation-content-two {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+section {
+    width: 100vw;
+    display: flex;
+    padding: 1rem 5vw;
+    gap: 1rem;
+    text-align: flex-end;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+    background: white;
+}
+
+.valo-logo {
+    height: 50px;
+    position: relative;
+    right: 30px;
+}
+
+.navigation-two {
+    width: 95%;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin: auto;
+}
+
+.navigation-two .globe {
+    display: flex;
+    position: relative;
+    left: 65%;
+}
+
+.design-two {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    padding: .3rem 5vw;
+    background: #FD4556;
+}
+
+section h3 {
+    margin-left: 65px;
+}
+
+.login {
+    text-align: center;
+    border-radius: 15px;
+    border: 2px solid black;
+    background: transparent;
+    padding: .3rem 10px;
+    margin-left: 64%;
+    position: relative;
+    background-color: black;
+    color: white;
+    font-size: 9px;
+}
+
+h1 {
+    font-weight: normal;
+    font-family:Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+}
+
+/* Design 2 with animation */
+
+header.design-two-animation {
+    display: flex;
+    justify-content: space-between;
+    width: 100rem;
+}
+
+.navigation-content-two-animation {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    position: relative;
+}
+
+.navigation-content-two-animation::before {
+    content: '';
+    position: absolute;
+    width: 0%;
+    height: 2px;
+    background-color: black;
+    bottom: -5px;
+    left: 50%;
+    transition: all 0.3s ease-in-out;
+}
+
+.navigation-content-two-animation:hover::before {
+    width: 100%;
+    left: 0;
+}
+
+
+section {
+    width: 100vw;
+    display: flex;
+    padding: 1rem 5vw;
+    gap: 1rem;
+    text-align: flex-end;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+    background: white;
+}
+
+.valo-logo {
+    height: 50px;
+    position: relative;
+    right: 30px;
+}
+
+.navigation-two-animation {
+    width: 95%;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin: auto;
+
+}
+
+.navigation-two-animation .globe {
+    display: flex;
+    position: relative;
+    left: 65%;
+}
+
+.design-two-animation {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    padding: .3rem 5vw;
+    background: #FD4556;
+}
+
+.login {
+    text-align: center;
+    border-radius: 15px;
+    border: 2px solid black;
+    background: transparent;
+    padding: .3rem 10px;
+    margin-left: 64%;
+    position: relative;
+    background-color: black;
+    color: white;
+    font-size: 9px;
+}
+
+h1 {
+    font-weight: normal;
+    font-family:Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+}
+
+/* Design 3 */
+
 
 
 
