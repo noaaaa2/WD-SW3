@@ -170,14 +170,6 @@ section {
     text-align: flex-end;
 }
 
-body {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    overflow: hidden;
-    background: white;
-}
-
 .valo-logo {
     height: 50px;
     position: relative;
@@ -329,6 +321,78 @@ h1 {
 
 /* Design 3 */
 
+header.design-three {
+    display: flex;
+    justify-content: space-between;
+    width: 100rem;
+}
+
+.navigation-content-three {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+section {
+    width: 100vw;
+    display: flex;
+    padding: 1rem 5vw;
+    gap: 1rem;
+    text-align: flex-end;
+}
+
+.valo-logo {
+    height: 50px;
+    position: relative;
+    right: 30px;
+}
+
+.navigation-three {
+    width: 95%;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin: auto;
+}
+
+.navigation-three .globe {
+    display: flex;
+    position: relative;
+    left: 65%;
+}
+
+.design-three {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    padding: .3rem 5vw;
+    background: #FD4556;
+}
+
+section h3 {
+    margin-left: 65px;
+}
+
+.login {
+    text-align: center;
+    border-radius: 15px;
+    border: 2px solid black;
+    background: transparent;
+    padding: .3rem 10px;
+    margin-left: 64%;
+    position: relative;
+    background-color: black;
+    color: white;
+    font-size: 9px;
+}
+
+h1 {
+    font-weight: normal;
+    font-family:Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+}
 
 
 
