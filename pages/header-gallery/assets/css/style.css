@@ -34,8 +34,9 @@ body {
     flex-direction: column;
     align-items: center;
     overflow: hidden;
-    background: white;
+    background: beige;
     overflow-y: scroll;
+
 }
 
 /* Design 1 */
