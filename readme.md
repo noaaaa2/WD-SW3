@@ -62,11 +62,11 @@ Description of the project in details.
 Guiding Question:
 - What is the project?
 <br /> The project is about creating a header and footer display website using HTML and CSS.
-- Whats the purpose
+- Whats the purpose?
 <br> In website design, headers and footers fulfill several functions: they guarantee design consistency, offer contact and legal information, accessibility features, branding, and navigation. The user experience, aesthetics, and usability are all improved when they are made with HTML and CSS.
-- What are key components
+- What are key components?
 <br /> Branding components including logos, search bars, navigation menus, contact details, and social networking connections are essential parts of website headers. Contact information, copyright information, legal connections, extra navigation, and accessibility features are often found in footers. These elements improve the website's overall consistency, branding, and usability.
-- What technology used and how it is used
+- What technology used and how it is used?
 <br /> Website headers and footers are constructed with CSS for styling and HTML for structure. These parts are defined by HTML tags such as <header> and <footer>, and their look, layout, and responsiveness are controlled by CSS. This approach ensures consistent branding, navigation, and information presentation throughout webpages.
 
 ### Key Components
@@ -80,7 +80,6 @@ Guiding Question:
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -121,4 +120,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Footer | Inspiration | https://i.pinimg.com/564x/3e/9d/9a/3e9d9ae2ab28ba1d14b28f1051dd29be.jpg |
+| Header | Inspiration | https://i.pinimg.com/564x/16/0b/5b/160b5bd8101750089d28f8da78ce9b7c.jpg |
