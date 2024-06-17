@@ -6,14 +6,14 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/TWICE-Symbol.png" alt="twice" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Seatwork 3</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  This is my seatwork 3
+It consists of a landing page, static and animated headers, and footers.
 </div>
 
 <br />
@@ -57,7 +57,9 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+
+My seatwork 3 consists of a landing page with two buttons, namely the header and footer. Inside the header and footer, there are a total of 10 designs; on the top is the static one, while on the bottom is the animated one. Each design is unique and distinct from the others.
+
 
 Guiding Question:
 - What is the project?
